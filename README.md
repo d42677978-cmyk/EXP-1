@@ -50,7 +50,8 @@ a.   KVL:
 
 
 b.  KCL:
-![WhatsApp Image 2025-11-14 at 16 02 21_d03df2f7](https://github.com/user-attachments/assets/b4c31801-dfbc-4305-8ff3-7ee097d9bcb9)
+<img width="778" height="420" alt="Screenshot 2025-11-18 205236" src="https://github.com/user-attachments/assets/0f4c03f8-2466-42ff-bbfe-618364df2ba2" />
+
 
 
  
